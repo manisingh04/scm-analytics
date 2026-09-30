@@ -1,0 +1,5 @@
+Service_Level_Scenario,Z_Score,Total_Safety_Stock_Valuation_USD,Total_Safety_Stock_CBM,Delta_vs_95_Base_USD
+90% SL (Low),1.282,168942.75,69.88,-47745.35
+95% SL (Standard),1.645,216688.1,89.57,0.0
+98% SL (Signify Benchmark),2.054,270519.7,111.82,53831.6
+99% SL (Mission Critical),2.326,306352.1,126.61,89664.0

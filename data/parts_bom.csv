@@ -1,0 +1,51 @@
+part_id,part_description,luminaire_model,component_type,material,unit_cost_usd,unit_weight_kg,unit_volume_cbm,primary_supplier_id,minimum_order_qty,holding_cost_annual_pct
+PRT-0001,Die-Cast ADC12 Luminaire Housing,StreetStar LED 150W,Mechanical,Die-cast ADC12 Al,24.5,4.2,0.038,SUP-MEC-01,200,0.22
+PRT-0002,Adjustable Mast Tenon Bracket,StreetStar LED 150W,Mechanical,Galvanized Steel,7.8,1.85,0.0095,SUP-MEC-03,300,0.22
+PRT-0003,150W Dimmable Constant Current Driver,StreetStar LED 150W,Electronic,Encapsulated PCB,18.2,0.65,0.0018,SUP-ELE-02,500,0.22
+PRT-0004,IP66 Surge Protection Device 10kV,StreetStar LED 150W,Electronic,Electronic Module,4.1,0.12,0.0004,SUP-ELE-03,500,0.22
+PRT-0005,High-Efficacy LED Array MCPCB (150W),StreetStar LED 150W,Electronic,Al-backed FR4 PCB,12.5,0.28,0.0008,SUP-ELE-01,1000,0.22
+PRT-0006,Type II Medium Road Optical Lens 48-LED,StreetStar LED 150W,Optics,Optical Grade PMMA,5.4,0.31,0.0022,SUP-OPT-01,400,0.22
+PRT-0007,Silicone Weatherproof Gasket Seal,StreetStar LED 150W,Fastener,EPDM/Silicone,1.25,0.045,0.0002,SUP-FAS-01,1500,0.22
+PRT-0008,Stainless Steel 304 Captive Fasteners Kit,StreetStar LED 150W,Fastener,SS 304,1.6,0.11,0.0003,SUP-FAS-01,2000,0.22
+PRT-0009,4mm Toughened Protective Glass Plate,StreetStar LED 150W,Optics,Tempered Soda-Lime Glass,3.9,0.95,0.0035,SUP-OPT-03,250,0.22
+PRT-0010,NEMA 7-Pin Smart Lighting Receptacle,StreetStar LED 150W,Electronic,PBT / Phosphor Bronze,3.1,0.085,0.0005,SUP-ELE-04,500,0.22
+PRT-0011,2x2 Deep Drawn CRCA Steel Housing,CleanSky Troffer 45W,Mechanical,Sheet Metal CRCA Steel,11.2,3.4,0.045,SUP-MEC-03,250,0.2
+PRT-0012,White Powder-Coated Steel Gear Tray,CleanSky Troffer 45W,Mechanical,Cold Rolled Steel,5.6,1.2,0.012,SUP-MEC-03,300,0.2
+PRT-0013,45W Isolated High-PF Flicker-Free Driver,CleanSky Troffer 45W,Electronic,Flyback SMPS PCB,8.4,0.38,0.0012,SUP-ELE-03,600,0.2
+PRT-0014,Linear LED Boards Array 45W 4000K,CleanSky Troffer 45W,Electronic,FR4 PCB,6.8,0.16,0.0006,SUP-ELE-01,800,0.2
+PRT-0015,Microprismatic Glare-Control Diffuser,CleanSky Troffer 45W,Optics,Extruded Polycarbonate,4.3,0.72,0.018,SUP-OPT-02,500,0.2
+PRT-0016,Push-Fit Quick Disconnect Terminal Block,CleanSky Troffer 45W,Electronic,Nylon 66 / Copper,0.65,0.025,0.0001,SUP-ELE-03,2500,0.2
+PRT-0017,Earth Continuity Grounding Harness,CleanSky Troffer 45W,Fastener,Copper Braided Wire,0.45,0.03,0.0001,SUP-FAS-01,3000,0.2
+PRT-0018,Safety Suspension Aircraft Wire Clips,CleanSky Troffer 45W,Fastener,Galvanized Steel Cable,1.1,0.06,0.0002,SUP-FAS-01,1500,0.2
+PRT-0019,Finned Cold-Forged 6063 Aluminum Heatsink,HighBay Pro Industrial 200W,Mechanical,Extruded 6063-T6 Al,32.8,5.1,0.032,SUP-MEC-03,150,0.22
+PRT-0020,Cast Aluminum Driver Enclosure Box,HighBay Pro Industrial 200W,Mechanical,Die-cast ADC12 Al,14.5,1.65,0.0085,SUP-MEC-02,200,0.22
+PRT-0021,200W IP65 High-Efficiency DALI Driver,HighBay Pro Industrial 200W,Electronic,Potting Resin Filled SMPS,27.5,1.1,0.0032,SUP-ELE-02,300,0.22
+PRT-0022,COB High-Lumen Density LED Chip Array,HighBay Pro Industrial 200W,Electronic,Ceramic Substrate LED,16.9,0.14,0.0004,SUP-ELE-01,500,0.22
+PRT-0023,90-Degree Specular Aluminum Reflector,HighBay Pro Industrial 200W,Optics,Spun Anodized Aluminum,8.2,0.58,0.024,SUP-OPT-03,250,0.22
+PRT-0024,Heavy-Duty Cast Forged Eye-Bolt Hanger,HighBay Pro Industrial 200W,Fastener,Drop Forged Steel,2.4,0.32,0.0006,SUP-FAS-01,1000,0.22
+PRT-0025,Optical Grade Polycarbonate Protection Lens,HighBay Pro Industrial 200W,Optics,Molded Polycarbonate,4.8,0.42,0.0045,SUP-OPT-02,400,0.22
+PRT-0026,Internal Thermal Interface Phase-Change Pad,HighBay Pro Industrial 200W,Mechanical,Silicone/Ceramic Composite,1.15,0.015,0.0001,SUP-MEC-01,2000,0.22
+PRT-0027,Spun Aluminum Decorative Canopy Hood,UrbanPark Architectural 60W,Mechanical,Deep Drawn 5052 Al,19.4,2.3,0.042,SUP-MEC-04,150,0.22
+PRT-0028,Clear Cylindrical Impact-Resistant Enclosure,UrbanPark Architectural 60W,Optics,PMMA Acrylic Cylinder,11.5,1.45,0.028,SUP-OPT-01,200,0.22
+PRT-0029,Cast Decorative Pole Base Adapter 76mm,UrbanPark Architectural 60W,Mechanical,Die-cast ADC12 Al,16.3,2.8,0.019,SUP-MEC-01,150,0.22
+PRT-0030,60W Programmable Midnight-Dimming Driver,UrbanPark Architectural 60W,Electronic,Electronic PCB,15.2,0.52,0.0016,SUP-ELE-02,400,0.22
+PRT-0031,Circular Symmetric Radial Distribution Lens,UrbanPark Architectural 60W,Optics,Molded PMMA,6.2,0.29,0.0028,SUP-OPT-01,350,0.22
+PRT-0032,Circular 60W LED Ring Board 3000K,UrbanPark Architectural 60W,Electronic,Al-MCPCB,10.4,0.22,0.0011,SUP-ELE-01,600,0.22
+PRT-0033,DALI-2 Light & Motion Sensor Head,Multi-Platform Common,Electronic,PBT / Microcontroller,14.8,0.09,0.0006,SUP-ELE-02,300,0.22
+PRT-0034,Die-Cast Wall Mounting Swivel Arm,Multi-Platform Common,Mechanical,Die-cast ADC12 Al,13.6,2.1,0.015,SUP-MEC-01,200,0.22
+PRT-0035,Photocell Twist-Lock Dusk-to-Dawn Switch,Multi-Platform Common,Electronic,Polycarbonate Housing,5.2,0.11,0.0007,SUP-ELE-04,500,0.22
+PRT-0036,Pressure Equalization Breather Vent IP68,Multi-Platform Common,Fastener,ePTFE Membrane,1.8,0.02,0.0001,SUP-FAS-01,1500,0.22
+PRT-0037,Asymmetric Forward-Throw Batwing Lens,Multi-Platform Common,Optics,Optical PMMA,6.8,0.34,0.0031,SUP-OPT-01,300,0.22
+PRT-0038,Heat-Pipe Thermal Copper Core Insert,Multi-Platform Common,Mechanical,Oxygen-Free Copper C1020,9.4,0.45,0.0008,SUP-MEC-03,400,0.22
+PRT-0039,Emergency Battery Backup Module 3-Hour,Multi-Platform Common,Electronic,LiFePO4 Pack,22.5,0.85,0.0024,SUP-ELE-03,250,0.22
+PRT-0040,Extruded Architectural Linear Profile 1.2m,Multi-Platform Common,Mechanical,Anodized 6063-T5 Al,15.9,1.75,0.021,SUP-MEC-03,200,0.22
+PRT-0041,Frosted Opal Anti-Glare Extruded Diffuser,Multi-Platform Common,Optics,Impact Modified Acrylic,4.9,0.48,0.011,SUP-OPT-02,300,0.22
+PRT-0042,Quick-Mount Louver Spring Retainers,Multi-Platform Common,Fastener,Spring Steel 65Mn,0.55,0.018,0.0001,SUP-FAS-01,4000,0.22
+PRT-0043,Zaga-Book 18 Compliant Sensor Receptacle,Multi-Platform Common,Electronic,High-Temp Polymer,4.1,0.07,0.0004,SUP-ELE-01,500,0.22
+PRT-0044,Corrosion-Proof Marine Coating Primer Base,Multi-Platform Common,Mechanical,Epoxy-Phenolic,3.2,0.35,0.0015,SUP-MEC-04,250,0.22
+PRT-0045,Internal Cable Routing Strain Relief Glands,Multi-Platform Common,Fastener,Polyamide PA66,0.85,0.035,0.0002,SUP-FAS-01,2000,0.22
+PRT-0046,Elliptical Beam Narrow Distribution Optic,Multi-Platform Common,Optics,Optical Grade Polycarbonate,5.9,0.28,0.0025,SUP-OPT-03,350,0.22
+PRT-0047,Isolated Step-Down DC-DC Converter 24V,Multi-Platform Common,Electronic,Compact FR4 Board,7.6,0.15,0.0008,SUP-ELE-03,500,0.22
+PRT-0048,Sheet Metal Reflector Clip Brackets,Multi-Platform Common,Mechanical,Zinc-Plated Steel,1.4,0.095,0.0005,SUP-MEC-03,1000,0.22
+PRT-0049,High-Temperature Silicone Potting Gel (1kg),Multi-Platform Common,Fastener,Two-Part Silicone,6.5,1.05,0.0011,SUP-FAS-01,300,0.22
+PRT-0050,Polycarbonate Clear Protective Dome Cover,Multi-Platform Common,Optics,UV-Stabilized Makrolon PC,7.2,0.62,0.009,SUP-OPT-01,250,0.22

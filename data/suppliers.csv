@@ -1,0 +1,13 @@
+supplier_id,supplier_name,category,country_origin,reliability_tier,contracted_lead_time_days,payment_terms,esg_compliance_score
+SUP-MEC-01,Precision Castings Ltd (Pune),Mechanical,India,Tier 1,35,Net 60,8.9
+SUP-MEC-02,Delta Die-Castings (Suzhou),Mechanical,China,Tier 2,50,Net 45,7.4
+SUP-MEC-03,Apex Extrusions & Metals (Gujarat),Mechanical,India,Tier 1,28,Net 60,9.1
+SUP-MEC-04,Vietnam Alloy Tech (Hai Phong),Mechanical,Vietnam,Tier 2,42,Net 60,8.2
+SUP-ELE-01,OptoDrive Semiconductors (Hsinchu),Electronic,Taiwan,Tier 1,65,Net 30,9.4
+SUP-ELE-02,EuroPower Driver Systems (Eindhoven),Electronic,Netherlands,Tier 1,45,Net 60,9.7
+SUP-ELE-03,Bharat Micro-Electronics (Bangalore),Electronic,India,Tier 2,30,Net 45,8.0
+SUP-ELE-04,Shenzhen SolidLED Components,Electronic,China,Tier 3,60,Net 30,6.8
+SUP-OPT-01,PolymerOptics Global (Munich),Optics,Germany,Tier 1,40,Net 60,9.5
+SUP-OPT-02,ClearVision Optical Molding (Dongguan),Optics,China,Tier 2,35,Net 45,7.9
+SUP-OPT-03,IndoOptics PolyPlast (Chennai),Optics,India,Tier 1,21,Net 60,8.7
+SUP-FAS-01,Unifast Hardware & Gaskets (Faridabad),Fastener,India,Tier 1,14,Net 30,9.2
